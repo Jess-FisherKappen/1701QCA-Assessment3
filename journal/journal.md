@@ -5,26 +5,21 @@
 
 ### *Mechatronic Ears on the microbit* ###
 
-<!--- Modify code to insert image of related project below --->
 ![Image](missingimage.png)
 
-<!--- Fill out name and link to related project in the code below. --->
 [Mechatronic Ears on the microbit](https://hackaday.io/project/18758-mechatronic-ears-on-the-microbit)
-<!--- Include information about why this project is related to yours. --->
 
-<!--- Repeat code above for a total of 6 related projects --->
+This is quite interesting as it also uses a microbit to make a component of the hat movable, and is able to disguise the wires. 
+
 
 ### *Halloween + Microbit* ###
 
-<!--- Modify code to insert image of related project below --->
 ![Image](halloween.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Halloween + Microbit](https://www.instructables.com/id/Halloween-Microbit/)
 
-<!--- Include information about why this project is related to yours. --->
-
-<!--- Repeat code above for a total of 6 related projects --->
+This is a fun project that incorporates lights and LED usage with the microbit instead of using the accelerometer. 
 
 ### *Insert name of related project here* ###
 
@@ -75,7 +70,8 @@
 <!--- Repeat code above for a total of 6 related projects --->
 
 ## Other research ##
-<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA
+Adam Savage's Tested Youtube channel was a very interesting and informative channel with lots of unique, creative videos. I saw some ideas, and although his costumes would be very hard to replicate, it was still interesting learning how his thought process worked.
 
 ## Conceptual development ##
 
