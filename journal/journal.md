@@ -109,10 +109,23 @@ For some reason the servo arms weren't starting at 90 degrees to the servo base 
 As documented in assignment 2, I was struggling to get the sound to come out of the speaker as well as have the 2 servos working correctly. I successfully managed to get sound coming out of the speaker eventually by changing the pins of the servos. However, that then resulted in the servos not following the 'instructions' I had set and instead kept getting stuck at odd angles. 
 
 #### Photographic progress ####
-![Image](missingimage.png)
+![Image](grey.jpg)
+This is the head with the finished grey paint on it. 
 
+![Image](hole.jpg)
+I then had to put two holes in the eye area so that the wires could stick through.
 
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+![Image](microbit1.jpg)
+Once the holes were big enough, the servo wires were threaded through
+
+![Image](microbit2.jpg)
+The wires were then taped to hide the wires, and also protect it from the glue. 
+
+![Image](wires.jpg)
+These are the wires that were going inside the head. 
+
+![Image](eyes.jpg)
+The eyes were then glued into place. 
 
 ## Final code ##
 ![Image](finalcode.png)
