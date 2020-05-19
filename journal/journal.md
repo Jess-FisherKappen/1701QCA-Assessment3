@@ -1,9 +1,5 @@
 # 1701QCA Final project journal: *Jess Fisher-Kappen*
 
-<!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
-
-<!--- Markdown reference: https://guides.github.com/features/mastering-markdown/ --->
-
 ## Related projects ##
 <!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
 
@@ -123,7 +119,7 @@ There will likely by a dozen or so images of the project under construction. The
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-My focus was to make a costume that, although simple, was able to be interactive with observers by choice of the person wearing the costume. 
+My focus was to make a costume that, although simple, was able to be interactive with observers by choice of the person wearing the costume. The design was fairly simple as I wanted to recreate the head of a famous robot from the show 'Futurama', named Bender. 
 
 ## Reflection ##
 
@@ -135,4 +131,5 @@ What parts of your project do you feel are novel. This is IMPORTANT to help just
 The part of the project that I feel is novel is 
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
+
 The project can be further extended by including different facial expressions, adding sound and lighting and having more interactive components in the body of the costume.  
