@@ -25,13 +25,17 @@
 ## Conceptual development ##
 
 ### Design intent ###
-<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+I would like to make a costume that can interact with its surroundings instead of just being static like a lot of the costumes that are currently available.
 
 ### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+Design concept 1
+A costume with a light attached to it. When someone comes too close to you, the light turns on and starts flashing, and a beeping sound will slowly start to be projected. The closer someone gets, the faster the beeping becomes.
+
+Design concept 2
+A costume that cools you down. It gets hot in costumes, and when the temperature in costumes reaches certain degrees, a fan would automatically turn on.
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+A costume that has facial expressions. You would be able to control it so that it can portray different emotions such as happy or sad. I like the idea of recreating Bender from Futurama with EVA foam for the head and styrofoam for the eyes. It would need to look sleek and not have any wires showing, so there would need to be a compartment in the head.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
@@ -62,5 +66,7 @@ There will likely by a dozen or so images of the project under construction. The
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
 What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
+The part of the project that I feel is novel is 
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
+The project can be further extended by including different facial expressions, adding sound and lighting and having more interactive components in the body of the costume.  
