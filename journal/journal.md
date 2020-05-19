@@ -125,18 +125,13 @@ The eyes were then glued into place.
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-My focus was to make a costume that, although simple, was able to be interactive with observers by choice of the person wearing the costume. The design was fairly simple as I wanted to recreate the head of a famous robot from the show 'Futurama', named Bender. A lot of people making static costumes 
+My focus was to make a costume that, although simple, was able to be interactive with observers by choice of the person wearing the costume. The design was fairly simple as I wanted to recreate the head of a famous robot from the show 'Futurama', named Bender. A lot of people making static costumes suggested EVA foam to help with the cost aspect of materials as well as the weight. 
 
 ## Reflection ##
-
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
-
-What techniques, approaches, skills, or information did you find useful from other sources?
-Using EVA foam was super helpful in keeping the costume light and function at the same time. It was also fairly affordable. Having a heat gun, as suggested from one of the related projects, was very important as well as I feel like if I didn't have one, I would not have been able to make the shape of Bender's head, along with keeping him a cylindrical shape. 
+Using EVA foam was super helpful in keeping the costume light and function at the same time. It was also fairly affordable. Having a heat gun, as suggested from one of the related projects, was very important as well as I feel like if I didn't have one, I would not have been able to make the shape of Bender's head, along with keeping him a cylindrical shape. However, I had hoped that I could add sound to the final project as I believed it would make for a more interesting and fun interaction. 
 
 
 The part of the project that I feel is novel is that it is interactive with the user depending on how the wearer of the costume head moves. 
 
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
 
 The project can be further extended by including different facial expressions, adding sound and lighting and having more interactive components in the body of the costume.  
