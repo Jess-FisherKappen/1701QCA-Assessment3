@@ -116,7 +116,7 @@ I have started to develop an interest in costumes that serve a greater purpose t
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
 ## Final code ##
-![Image](final_code.jpg)
+![Image](finalcode.png)
 
 
 ## Design process discussion ##
