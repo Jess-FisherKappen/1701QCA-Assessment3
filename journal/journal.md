@@ -131,10 +131,10 @@ My focus was to make a costume that, although simple, was able to be interactive
 
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+What techniques, approaches, skills, or information did you find useful from other sources?
 Using EVA foam was super helpful in keeping the costume light and function at the same time. It was also fairly affordable. Having a heat gun, as suggested from one of the related projects, was very important as well as I feel like if I didn't have one, I would not have been able to make the shape of Bender's head, along with keeping him a cylindrical shape. 
 
-What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
+
 The part of the project that I feel is novel is that it is interactive with the user depending on how the wearer of the costume head moves. 
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
