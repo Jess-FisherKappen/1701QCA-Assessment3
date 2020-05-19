@@ -102,15 +102,18 @@ A costume that has facial expressions. You would be able to control it so that i
 ![Image](flow.jpg)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
 #### Assignment 2 process documentation ####
 I have started to develop an interest in costumes that serve a greater purpose than just someone wearing the costume. I've noticed a greater demand in people wanting interactive/moving costumes to greater recreate the person/character that they are costuming. People either don't know how to make the costume more interactive, or they pay someone else a lot of money to create it for them. While doing some research, I had noticed a lot of people that make costumes use a material called EVA foam as it was lightweight but still created something that could look realistic.
 
 #### Improving the project ####
+For some reason the servo arms weren't starting at 90 degrees to the servo base so I had to double check the arm position by quickly altering it. After some fiddle work with the servo, I got both arms to start in the position I had wanted.  
 
 #### Trying to add sound to the project ####
+As documented in assignment 2, I was struggling to get the sound to come out of the speaker as well as have the 2 servos working correctly. I successfully managed to get sound coming out of the speaker eventually by changing the pins of the servos. However, that then resulted in the servos not following the 'instructions' I had set and instead kept getting stuck at odd angles. 
 
+#### Photographic progress ####
+![Image](missingimage.png)
 
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
@@ -118,10 +121,9 @@ There will likely by a dozen or so images of the project under construction. The
 ## Final code ##
 ![Image](finalcode.png)
 
-
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
+My focus was to make a costume that, although simple, was able to be interactive with observers by choice of the person wearing the costume. 
 
 ## Reflection ##
 
