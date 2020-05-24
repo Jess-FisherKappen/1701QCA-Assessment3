@@ -4,7 +4,7 @@
 
 ### *Mechatronic Ears on the microbit* ###
 
-![Image](missingimage.png)
+![Image](ear.png)
 
 [Mechatronic Ears on the microbit](https://hackaday.io/project/18758-mechatronic-ears-on-the-microbit)
 
@@ -23,20 +23,18 @@ This is a fun project that incorporates lights and LED usage with the microbit i
 
 ![Image](mouth.png)
 
-
 [No face animatronic mouth](https://www.youtube.com/watch?v=kjxdWnUBmpU)
 
-<!--- Include information about why this project is related to yours. --->
+This project also uses some form of animatronics to work and the costume interacts with users.
 
 
 ### *Haunted Mansion Portrait Moving T-shirt* ###
 
-
-![Image](missingimage.png)
+![Image](shirt.jpg)
 
 [Haunted Mansion Portrait Moving T-shirt](https://www.morphsuits.com/haunted-mansion-portrait-t-shirt-us)
 
-<!--- Include information about why this project is related to yours. --->
+Although quite simple, this shirt is something that is engaging and can interact with onlookers. 
 
 
 ## Other research ##
@@ -101,8 +99,6 @@ My focus was to make a costume that, although simple, was able to be interactive
 ## Reflection ##
 Using EVA foam was super helpful in keeping the costume light and function at the same time. It was also fairly affordable. Having a heat gun, as suggested from one of the related projects, was very important as well as I feel like if I didn't have one, I would not have been able to make the shape of Bender's head, along with keeping him a cylindrical shape. However, I had hoped that I could add sound to the final project as I believed it would make for a more interesting and fun interaction. 
 
-
 The part of the project that I feel is novel is that it is interactive with the user depending on how the wearer of the costume head moves. 
 
-
-The project can be further extended by including different facial expressions, adding sound and lighting and having more interactive components in the body of the costume.  
+The project can be further extended by including different facial expressions, adding sound and lighting and having more interactive components in the body of the costume. This head is only the beginning of the costume, and can be applied to many different parts of a whole body costume.  
